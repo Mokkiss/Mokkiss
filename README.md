@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rafah
+# 👋 Hi, I'm Rafa
 
 🐍 **Beginner Programmer**
 🇧🇷 Brazil
