@@ -11,23 +11,17 @@ I also create content and share knowledge on **software development, SaaS, and t
 ---
 
 ## 🌐 Where to find me
-
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Mokkiss">
+    <img src="https://img.shields.io/badge/GitHub-Mokkiss-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/y.rafah__">
+    <img src="https://img.shields.io/badge/Instagram-@y.rafah__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.tiktok.com/@rafanyxor">
+    <img src="https://img.shields.io/badge/TikTok-@rafanyxor-000000?style=for-the-badge&logo=tiktok" />
   </a>
 </p>
-
----
 
 ## 🧠 What I do
 
